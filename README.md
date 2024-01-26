@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This innovative career recommendation system is designed specifically for students in India. It leverages a dataset of elite LinkedIn profiles to provide personalized guidance, helping students understand and excel in the complex job market. Unlike traditional systems, it uses advanced data processing techniques and machine learning for precise career path prediction.
+This innovative career recommendation system is designed specifically for students in India. It leverages a dataset of top Indian LinkedIn profiles working in India to provide personalized guidance, helping students understand and excel in the complex Indian job market. It uses advanced data processing techniques and machine learning for precise career path prediction.
 
 
 ## Key Features
