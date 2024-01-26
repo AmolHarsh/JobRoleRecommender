@@ -1,16 +1,13 @@
-======================================================================================
 
-Career Recommendation System for Indian Students
+## Career Recommendation System for Indian Students
 
-======================================================================================
 
-Project Overview
+## Project Overview
 
 This innovative career recommendation system is designed specifically for students in India. It leverages a dataset of elite LinkedIn profiles to provide personalized guidance, helping students understand and excel in the complex job market. Unlike traditional systems, it uses advanced data processing techniques and machine learning for precise career path prediction.
 
-======================================================================================
 
-Key Features
+## Key Features
 
   
   -Personalized Career Mapping: Detailed exploration of careers, emphasizing the differences and interrelations between job roles.
@@ -20,10 +17,9 @@ Key Features
   -Machine Learning Model: Combination of TF-IDF, TruncatedSVD, and XGBClassifier for accurate career predictions.
   
   -Innovative Clustering Technique: Custom mechanism to match student profiles with a diverse range of job roles.
-  
-======================================================================================
 
-Impact and Results
+
+## Impact and Results
 
 
   -High Accuracy: 95% success rate in career path predictions.
@@ -32,17 +28,16 @@ Impact and Results
   
   -Multi-dimensional Career Insights: Provides diverse insights into potential career paths.
 
-======================================================================================
 
-Application Example:
+## Application Example:
 
 A student considering a Data Scientist role might discover alignment with other roles like Machine Learning Engineer or Quant Engineer, broadening their career options.
 
-======================================================================================
-Repository Structure
+
+## Repository Structure
 
 
-FinalProjectRepo/
+## FinalProjectRepo/
 
 codes/
 
@@ -62,11 +57,12 @@ codes/
   
   -skills_about.ipynb - Notebook for skills and about section processing.
 
-Final Project Presentation.pdf - Detailed presentation of the project.
+##  Project Link
+Final Project Presentation.pdf can be found on the course project link of Plaksha University:
+Project name: Job Recommendation System for Plaksha Students
+https://ai3011.plaksha.edu.in/projects.html
 
-======================================================================================
-
-Skills
+## Skills
 
   Applied Machine Learning
   
@@ -78,11 +74,3 @@ Skills
   
   Predictive Modeling
 
-======================================================================================
-
-  Project Link
-  
-
-For more information, visit 
-
-https://ai3011.plaksha.edu.in/projects.html
