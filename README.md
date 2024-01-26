@@ -34,8 +34,7 @@ This innovative career recommendation system is designed specifically for studen
 A student considering a Data Scientist role might discover alignment with other roles like Machine Learning Engineer or Quant Engineer, broadening their career options.
 
 
-## Repository Structure
-
+## Code Repository Structure
 
 FinalProjectRepo/
 
@@ -58,11 +57,15 @@ codes/
   -skills_about.ipynb - Notebook for skills and about section processing.
 
 ##  Project Link
-Final Project Presentation.pdf can be found on the course project link of Plaksha University:
+
+Final Project Presentation.pdf can be found at FinalProjectRepo/FinalPresentationReport.pdf
+
+or on the course project link of Plaksha University:
 
 Project name: Job Recommendation System for Plaksha Students
 
 https://ai3011.plaksha.edu.in/projects.html
+
 
 ## Skills
 
