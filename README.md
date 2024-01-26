@@ -59,7 +59,9 @@ codes/
 
 ##  Project Link
 Final Project Presentation.pdf can be found on the course project link of Plaksha University:
+
 Project name: Job Recommendation System for Plaksha Students
+
 https://ai3011.plaksha.edu.in/projects.html
 
 ## Skills
