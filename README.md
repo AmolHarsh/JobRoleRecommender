@@ -37,7 +37,7 @@ A student considering a Data Scientist role might discover alignment with other 
 ## Repository Structure
 
 
-## FinalProjectRepo/
+FinalProjectRepo/
 
 codes/
 
