@@ -36,9 +36,7 @@ A student considering a Data Scientist role might discover alignment with other 
 
 ## Code Repository Structure
 
-FinalProjectRepo/
-
-codes/
+FinalProjectRepo/codes/
 
   -XGBoost Classification Code.ipynb - Code for the XGBoost classifier.
   
