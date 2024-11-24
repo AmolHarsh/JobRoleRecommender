@@ -62,7 +62,7 @@ or on the course project link of Plaksha University:
 
 Project name: Job Recommendation System for Plaksha Students
 
-https://ai3011.plaksha.edu.in/projects.html
+https://ai3011.plaksha.edu.in/monsoon2023.html
 
 
 ## Skills
